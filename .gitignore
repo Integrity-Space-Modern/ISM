@@ -30,3 +30,5 @@ libraries
 cache
 assets
 asm
+ISM
+config/NEI/client.cfg
