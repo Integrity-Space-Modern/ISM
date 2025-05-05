@@ -32,3 +32,4 @@ assets
 asm
 ISM
 config/NEI/client.cfg
+.idea
